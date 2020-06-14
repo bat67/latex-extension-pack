@@ -1,0 +1,42 @@
+{
+    "name": "latex-extension-pack",
+    "displayName": "LaTeX Extension Pack",
+    "description": "Popular Visual Studio Code extensions for LaTeX",
+    "version": "0.1.0",
+    "publisher": "bat67",
+    "icon": "icon.png",
+    "engines": {
+        "vscode": "^1.10.0"
+    },
+    "galleryBanner": {
+        "color": "#333333",
+		"theme": "dark"
+    },
+    "keywords": [
+        "latex",
+		"tex",
+        "LaTex",
+        "linter",
+        "snippet",
+		"extension pack"
+	],
+    "categories": [
+        "Extension Packs"
+    ],
+    "license": "SEE LICENSE IN LICENSE.md",
+    "repository": {
+		"type": "git",
+		"url": "https://github.com/bat67/latex-extension-pack"
+	},
+	"homepage": "https://github.com/bat67/latex-extension-pack",
+	"bugs": {
+        "url": "https://github.com/bat67/latex-extension-pack/issues"
+    },
+    "extensionDependencies": [ 
+        "James-Yu.latex-workshop",
+        "tecosaur.latex-utilities",
+        "torn4dom4n.latex-support",
+        "valentjn.vscode-ltex",
+        "thomanq.math-snippets"
+    ]
+}
