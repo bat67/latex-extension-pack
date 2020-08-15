@@ -2,7 +2,7 @@
     "name": "latex-extension-pack",
     "displayName": "LaTeX Extension Pack",
     "description": "Popular Visual Studio Code extensions for LaTeX",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "publisher": "bat67",
     "icon": "icon.png",
     "engines": {
@@ -37,6 +37,7 @@
         "tecosaur.latex-utilities",
         "torn4dom4n.latex-support",
         "valentjn.vscode-ltex",
-        "thomanq.math-snippets"
+        "thomanq.math-snippets",
+        "yzhang.dictionary-completion"
     ]
 }

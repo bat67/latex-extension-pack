@@ -27,6 +27,7 @@
 - [LaTeX language support](https://marketplace.visualstudio.com/items?itemName=torn4dom4n.latex-support) - This extension adds syntax highlighting and snippets for LaTeX language.
 - [LTeX](https://marketplace.visualstudio.com/items?itemName=valentjn.vscode-ltex) - LTEX provides offline grammar checking in Visual Studio Code using LanguageTool (LT), supporting LATEX and Markdown documents.
 - [Math Snippets](https://marketplace.visualstudio.com/items?itemName=thomanq.math-snippets) - Math snippets for LaTeX and Markdown
+- [Dictionary Completion](https://marketplace.visualstudio.com/items?itemName=yzhang.dictionary-completion) - Dictionary completion allows user to get a list of keywords, based off of the current word at the cursor.
 
 ## Contributing
 
